@@ -47,7 +47,7 @@ The final CSV file contains:
 
 ## Tableau Dashboard
 
-[View Tableau Dashboard](Tableau_Public link)
+[View Tableau Dashboard](https://public.tableau.com/app/profile/ivan.mykhailov/viz/CreateYourABTestingTool_17455624850390/ABTestResultsStatisticalSignificance?publish=yes)
 
 ## Dashboard Preview
 
